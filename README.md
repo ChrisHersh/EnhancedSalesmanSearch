@@ -12,7 +12,7 @@ This works by getting all subsets of the initial list and then by getting the pe
 of those subsets. Then it will look through the permutations for lists that are 1 element long and 
 compare that element to the key.
 
-The name comes from the Traveling Salesman problem whose effciency is O(n!)
+The name comes from the Traveling Salesman problem whose effciency is O(n!) for a brute force approach
 
 To Run:
     Open a terminal and cd to the directory the .py file is in
